@@ -1,3 +1,3 @@
 # SCCM Scripts
 * foo
-** bar
+  * bar
